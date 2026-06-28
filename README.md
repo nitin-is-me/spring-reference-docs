@@ -1,7 +1,5 @@
 # Spring Boot Documentation
 
-Welcome! 👋
-
 This is **not a Spring Boot course**.
 
 These articles are **reference documents** I wrote while learning Spring Boot to explain concepts that took me a long time to truly understand. They are meant for future revision whenever I forget *why* something exists or *how* different Spring components work together.
@@ -27,7 +25,7 @@ However, if I'm completely new to Spring Boot, this order makes the most sense:
 
 ---
 
-# 📚 Articles
+# Articles
 
 ---
 
@@ -166,7 +164,7 @@ Everything else can be learned directly from:
 
 ---
 
-# 🚀 Future Articles
+# Future Articles
 
 I'll only add new articles when I encounter concepts that genuinely require deeper understanding.
 
